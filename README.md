@@ -16,6 +16,8 @@ Output: "leetcode"
 Explanation:
 Remove an 'e' from the first group of 'e's to create "leetcode".
 No three consecutive characters are equal, so return "leetcode".
+
+
 Example 2:
 
 Input: s = "aaabaaaa"
