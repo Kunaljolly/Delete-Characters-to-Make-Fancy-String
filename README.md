@@ -37,5 +37,5 @@ Explanation: No three consecutive characters are equal, so return "aab".
 
 Constraints:
 
-1 <= s.length <= 105
+1 <= s.length <= 10^5
 s consists only of lowercase English letters.
